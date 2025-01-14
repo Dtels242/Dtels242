@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David telusnor
+- 👋 Hi, I’m @DavidTelusnord
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Information Technology 
 - 💞️ I’m looking to collaborate on ...
