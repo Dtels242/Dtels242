@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DavidTelusnord
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Information Technology 
+- 👋 Hi, I’m @David 
+- 👀 I’m interested in Data Centers, Cloudd Engineering 
+- 🌱 I’m currently a Data Center Tech in Iceland 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
