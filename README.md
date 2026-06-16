@@ -1,4 +1,4 @@
-# Hi there, I'm David Telusnord 👋
+# Hi there, I'm David Telusnord 👋🏿
 
 ## About Me
 
