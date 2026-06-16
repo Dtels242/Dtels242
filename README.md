@@ -28,11 +28,6 @@
 * 📚 Studying for CompTIA Security+
 * ☁️ Exploring AWS Solutions Architecture and Cloud Technologies
 
-## Connect With Me
-
-* 📫 GitHub: @Dtels242
-* 💼 LinkedIn: David Telusnord(https://www.linkedin.com/in/david-telusnord-490794101)
-
 ## Fun Facts
 
 * ⚡ Originally from The Bahamas 🇧🇸
